@@ -8,7 +8,7 @@ Aqui se realizan las practicas en Django que es un framework marco de trabajo en
 - 5 verificar que este instalado python -- > python -- version
 - 6 crear entorno virtual  py --> py -3 -m venv .venv
 - 7 activar el enetorno --> virtual .venv\scripts\activate 
-- 8 seleccionar interprete fde python presione f1
+- 8 seleccionar interprete de python presione f1
 - 9 actualizar pip --> python -m pip install --upgrade pip
 - 10 insralara frame work Django -- > python -m pip install django
 - 11 crear el proyecto en python Django --> django-admin startproject CBTIS1285J1367 . 
